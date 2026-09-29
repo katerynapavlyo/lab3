@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .w_out{
+            background: lightskyblue;
+            width:300px;
+            padding-bottom: 100px;
+            padding-top: 20px;
+            border:black solid 1px;
+            border-radius: 10px;
+        }
+        .w_in{
+            background: black;
+            border:black solid 1px;
+            border-radius: 10px;
+            margin-left: 20px;
+            margin-right: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .w_in div{
+            text-align: center;
+            color: white;
+        }
+        .text2{
+            border: white solid 1px;
+            border-radius: 10px;
+            position: relative;
+            top:30px;
+            background: black;
+        }
+
+    </style>
+</head>
+<body>
+<div class="w_out">
+    <div class="w_in">
+        <div class="text1">
+            <h1>HTML</h1>
+            <h2>(sdgs  sdfg sd dfh dfh)</h2>
+            <p> dsfasdf aiusfh sav</p>
+        </div>
+        <div class="text2">
+            <p>"dfsdfsdfds"</p>
+            <p>fsdfsdfdsf</p>
+            <p>fsdfsdfdsf</p>
+            <p>fsdfsdfdsf</p>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
